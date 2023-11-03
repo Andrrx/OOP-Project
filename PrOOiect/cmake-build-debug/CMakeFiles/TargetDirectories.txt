@@ -1,0 +1,3 @@
+D:/Repo/OOP-Project/CLionProjects/PrOOiect/cmake-build-debug/CMakeFiles/PrOOiect.dir
+D:/Repo/OOP-Project/CLionProjects/PrOOiect/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repo/OOP-Project/CLionProjects/PrOOiect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
